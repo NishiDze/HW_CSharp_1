@@ -1,0 +1,15 @@
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.AssemblyInfoInputs.cache
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.AssemblyInfo.cs
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\C#_1_HW\bin\Debug\net7.0\C#_1_HW.exe
+C:\Users\Любовь\Desktop\C#_1_HW\bin\Debug\net7.0\C#_1_HW.deps.json
+C:\Users\Любовь\Desktop\C#_1_HW\bin\Debug\net7.0\C#_1_HW.runtimeconfig.json
+C:\Users\Любовь\Desktop\C#_1_HW\bin\Debug\net7.0\C#_1_HW.dll
+C:\Users\Любовь\Desktop\C#_1_HW\bin\Debug\net7.0\C#_1_HW.pdb
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.dll
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\refint\C#_1_HW.dll
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.pdb
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\C#_1_HW.genruntimeconfig.cache
+C:\Users\Любовь\Desktop\C#_1_HW\obj\Debug\net7.0\ref\C#_1_HW.dll
